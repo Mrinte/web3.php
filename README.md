@@ -18,13 +18,13 @@ Set minimum stability to dev
 
 Then
 ```
-composer require web3p/web3.php dev-master
+composer require mrinte/web3.php dev-master
 ```
 
 Or you can add this line in composer.json
 
 ```
-"web3p/web3.php": "dev-master"
+"mrinte/web3.php": "dev-master"
 ```
 
 
